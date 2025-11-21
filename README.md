@@ -32,12 +32,14 @@ You can achieve better results by adjusting the **Volume** settings.
 - Change the **Resolution** to **1:2** (or whatever you like);
 - Disable the **Custom Range** option to avoid clipping the tornado.
 
-<img width="593" height="533" alt="image" src="https://github.com/user-attachments/assets/a341ee0a-9da4-4051-8bdc-89d790b49fad" />
+<img width="594" height="292" alt="image" src="https://github.com/user-attachments/assets/28e6ec89-8e03-4f9a-94b4-39ea3f151253" />
+
 
 ## Cycles
 - Enable **Biased** option;
 - Decrease the **Step Rate Render** and **Viewport** to **0.10** (or whatever you like).
-<img width="591" height="316" alt="image" src="https://github.com/user-attachments/assets/f147828c-c466-4132-88aa-3c84884e5555" />
+<img width="595" height="263" alt="image" src="https://github.com/user-attachments/assets/63a759bb-0ff1-4902-b3d9-1c459c9d9919" />
+
 
 ![DL_TornadoShader - Before and After (volume detail)](https://github.com/user-attachments/assets/0c678572-49c3-4188-97b1-5b921c239355)
 
