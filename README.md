@@ -63,7 +63,7 @@ You can achieve better results by adjusting the **Volume** settings.
 
 > [!IMPORTANT]
 > _Technically, you can apply this Shader to any object. However, I strongly recommend using the geometry shown above, since it already carries the tornado look._ <br>
-> _If you scale it or apply the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch._
+> _If you **apply** the scale and/or assign the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch._
 
 # Supporters 💪
 > 😞
