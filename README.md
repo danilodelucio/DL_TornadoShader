@@ -46,10 +46,24 @@ You can achieve better results by adjusting the **Volume** settings.
 
 # Installation ⚙️
 
-- Click on the green button and download the zip file;
+- Click on the green button and download the zip file.
 <img width="406" height="338" alt="image" src="https://github.com/user-attachments/assets/07891cdb-2ae5-4ccf-bca5-f50ef26b80eb" />
 
-- 
+- After extracting the files, go to File -> Append.
+<img width="277" height="293" alt="image" src="https://github.com/user-attachments/assets/0591e009-b5f0-48cc-948c-ab4558269de4" />
+
+- Select the Blender file -> Object -> DL_Tornado.
+
+![appending_v001_](https://github.com/user-attachments/assets/153768f0-7caf-4f12-8d8c-0c07d22a5d27)
+
+- Now you are ready to go!
+<img width="1062" height="863" alt="image" src="https://github.com/user-attachments/assets/00ecb14a-1953-4a1d-a016-5799b191ff36" />
+
+
+
+> [!IMPORTANT]
+> _Technically, you can apply this Shader to any object. However, I strongly recommend using the geometry shown above, since it already carries the tornado look._ <br>
+> _If you scale it or apply the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch._
 
 # Supporters 💪
 > 😞
@@ -62,7 +76,7 @@ If you find this tool useful, please consider supporting me on [Buy Me A Coffee]
 
 > _If you donate any amount, please mention this tool (also your preference name if you want to), so your name will appear in the Supporters list above._
 
-You can also ⭐ star this repository — it helps a lot with visibility and motivates me to keep developing tools for VFX.
+You can also ⭐ _star this repository_ ⭐ — it helps a lot with visibility and motivates me to keep developing tools for VFX.
 
 Sharing this project or sending me a positive message would help me in the same way.
 
