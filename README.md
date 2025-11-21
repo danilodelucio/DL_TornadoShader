@@ -56,11 +56,13 @@ You can achieve better results by adjusting the **Volume** settings.
 
 <img width="1440" height="786" alt="image" src="https://github.com/user-attachments/assets/150d495e-2c94-49b7-95f3-0d9b2d9ab0dd" />
 
-
-If you find this tool useful, please consider supporting me on [Buy Me A Coffee](https://buymeacoffee.com/danilodelucio). ☕
+If you find this tool useful, please consider supporting me on [Buy Me A Coffee](https://buymeacoffee.com/danilodelucio).
 
 > _If you donate any amount, please mention this tool (also your preference name if you want to), so your name will appear in the Supporters list above._
 
-You can also share this tool or send me a positive message, it would help me in the same way.
+You can also ⭐ star this repository — it helps a lot with visibility and motivates me to keep developing tools for VFX.
+
+Sharing this project or sending me a positive message would help me in the same way.
+
 
 # Cheers! 🥂
