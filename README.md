@@ -2,21 +2,20 @@
 ![DL_TornadoShader - Thumbnail v1](https://github.com/user-attachments/assets/4b2d16ac-6fa1-424f-a8fa-2ff42956984b)
 
 # DL_TornadoShader 🌪️
-This Blender file provides a Shader to create a tornado effect without simulation, based on Volume Shader.
+This Blender file provides a Shader to create a tornado effect without simulation, based on **Volume Shader**.
 
 ![overall_v001](https://github.com/user-attachments/assets/ab523b4f-fcfa-4e62-b01f-5d70fd41228b)
 > [!TIP]
-> _Hold `Shift` while adjusting values for finer control._
+> Hold `Shift` while adjusting values for finer control.
 
 ![vfx_v001 2](https://github.com/user-attachments/assets/5ffbcb4d-b8a3-4170-95b1-5ba752746af4)
 
 ---
 
-- This tool was inspired by **Bad Normals**' tutorial, and you can check it out here:
-> https://www.youtube.com/watch?v=0bCbLY7s3zQ
+> [!NOTE]
+> This tool was inspired by **Bad Normals**' tutorial, and you can check it out [here](https://www.youtube.com/watch?v=0bCbLY7s3zQ).<br>
+> If you want to check my VFX shot that I used my tornado version, please check it out [here](https://www.youtube.com/watch?v=0O4ICi_XhgM).
 
-- If you want to check my VFX shot that I used my tornado version, please check it out:
-> https://www.youtube.com/watch?v=0O4ICi_XhgM
 
 I optimized the entire setup into one node, with all the necessary parameters easily accessible to the user.
 
@@ -57,10 +56,10 @@ If you need to change the color, select the node and press `Tab`. There is a sec
 - Click on the green button and download the zip file.
 <img width="406" height="338" alt="image" src="https://github.com/user-attachments/assets/07891cdb-2ae5-4ccf-bca5-f50ef26b80eb" />
 
-- After extracting the files, go to File -> Append.
+- After extracting the files, go to `File -> Append`.
 <img width="277" height="293" alt="image" src="https://github.com/user-attachments/assets/0591e009-b5f0-48cc-948c-ab4558269de4" />
 
-- Select the Blender file -> Object -> DL_Tornado.
+- Select the Blender file and go to `Object -> DL_Tornado`.
 
 ![appending_v001_](https://github.com/user-attachments/assets/153768f0-7caf-4f12-8d8c-0c07d22a5d27)
 
@@ -70,8 +69,8 @@ If you need to change the color, select the node and press `Tab`. There is a sec
 
 
 > [!IMPORTANT]
-> _Technically, you can apply this Shader to any object. However, I strongly recommend using the geometry shown above, since it already carries the tornado look._ <br>
-> _If you **apply** the scale and/or assign the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch._
+> Technically, you can apply this Shader to any object. However, I strongly recommend using the geometry shown above, since it already carries the tornado look. <br>
+> If you **apply** the scale and/or assign the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch.
 
 # Supporters 💪
 > 😞
