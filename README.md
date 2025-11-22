@@ -47,7 +47,7 @@ You can achieve better results by adjusting the **Volume** settings.
 
 # Changing Color 🎨
 
-If you need to change the color, select the node and press Tab. There is a section called **Tornado Color**.
+If you need to change the color, select the node and press `Tab`. There is a section called **Tornado Color**.
 
 <img width="2607" height="920" alt="image" src="https://github.com/user-attachments/assets/3cdbfb55-97ba-4397-bc97-86bfd0842ccc" />
 
