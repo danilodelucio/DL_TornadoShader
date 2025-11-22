@@ -5,8 +5,10 @@
 This Blender file provides a Shader to create a tornado effect without simulation, based on Volume Shader.
 
 ![overall_v001](https://github.com/user-attachments/assets/ab523b4f-fcfa-4e62-b01f-5d70fd41228b)
-![vfx_v001 2](https://github.com/user-attachments/assets/5ffbcb4d-b8a3-4170-95b1-5ba752746af4)
+> [!TIP]
+> _Hold `Shift` while adjusting values for finer control._
 
+![vfx_v001 2](https://github.com/user-attachments/assets/5ffbcb4d-b8a3-4170-95b1-5ba752746af4)
 
 ---
 
@@ -42,6 +44,12 @@ You can achieve better results by adjusting the **Volume** settings.
 
 
 ![DL_TornadoShader - Before and After (volume detail)](https://github.com/user-attachments/assets/0c678572-49c3-4188-97b1-5b921c239355)
+
+# Changing Color 🎨
+
+If you need to change the color, select the node and press Tab. There is a section called **Tornado Color**.
+
+<img width="2607" height="920" alt="image" src="https://github.com/user-attachments/assets/3cdbfb55-97ba-4397-bc97-86bfd0842ccc" />
 
 
 # Installation ⚙️
