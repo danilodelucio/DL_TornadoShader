@@ -73,7 +73,9 @@ If you need to change the color, select the node and press `Tab`. There is a sec
 > If you **apply** the scale and/or assign the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch.
 
 # Supporters 💪
-> 😞
+Italo Gabriel | ☕☕☕ 
+--- | ---
+
 
 # Support me! 🥺
 
