@@ -82,7 +82,8 @@ Italo Gabriel | ☕☕☕
 <img src="https://danilodelucio.com/wp-content/uploads/2025/12/supporter-badges.jpg" alt="Supporter Badges" />
 </a>
 
-Enjoying this tool? Support me with a coffee on my [Supporters](https://www.danilodelucio.com/supporters) page — get a badge and join the wall of supporters! 😎
+## Enjoying this tool?
+Support me with a coffee on my [Supporters](https://www.danilodelucio.com/supporters) page — get a badge and join the wall of supporters! 😎
 
 You can also ⭐ _star this repository_ ⭐ — it helps a lot with visibility and motivates me to keep developing tools for VFX.
 
