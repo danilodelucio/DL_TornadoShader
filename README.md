@@ -71,16 +71,10 @@ If you need to change the color, select the node and press `Tab`. There is a sec
 > Technically, you can apply this Shader to any object. However, I strongly recommend using the geometry shown above, since it already carries the tornado look. <br>
 > If you **apply** the scale and/or assign the Shader to a different object, you’ll likely need to re‑adjust the settings from scratch.
 
-# Supporters 💪
-Italo Gabriel | ☕☕☕ 
---- | ---
 
+# Support me! ☕
 
-# Support me! 🥺
-
-<a href="https://www.danilodelucio.com/supporters" target="_blank">
-<img src="https://danilodelucio.com/wp-content/uploads/2025/12/supporter-badges.jpg" alt="Supporter Badges" />
-</a>
+![Supporters Page](https://danilodelucio.com/wp-content/uploads/2025/12/supporter-badges.jpg)
 
 ## Enjoying this tool?
 Support me with a coffee on my [Supporters](https://www.danilodelucio.com/supporters) page — get a badge and join the wall of supporters! 😎
