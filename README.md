@@ -1,4 +1,3 @@
-
 ![DL_TornadoShader - Thumbnail v1](https://github.com/user-attachments/assets/4b2d16ac-6fa1-424f-a8fa-2ff42956984b)
 
 # DL_TornadoShader 🌪️
@@ -79,11 +78,11 @@ Italo Gabriel | ☕☕☕
 
 # Support me! 🥺
 
-<img width="1440" height="786" alt="image" src="https://github.com/user-attachments/assets/150d495e-2c94-49b7-95f3-0d9b2d9ab0dd" />
+<a href="https://www.danilodelucio.com/supporters" target="_blank">
+<img src="https://danilodelucio.com/wp-content/uploads/2025/12/supporter-badges.jpg" alt="Supporter Badges" />
+</a>
 
-If you find this tool useful, please consider supporting me on [Buy Me A Coffee](https://buymeacoffee.com/danilodelucio).
-
-> _If you donate any amount, please mention this tool (also your preference name if you want to), so your name will appear in the Supporters list above._
+Enjoying this tool? Support me with a coffee on my [Supporters](https://www.danilodelucio.com/supporters) page — get a badge and join the wall of supporters! 😎
 
 You can also ⭐ _star this repository_ ⭐ — it helps a lot with visibility and motivates me to keep developing tools for VFX.
 
